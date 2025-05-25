@@ -7,3 +7,5 @@
   catboost
 ## model prediciton
 Bayes Optimizaiton, Grid Search, cross validation
+## Evaluation and backtesting
+R², AUC, F1, Precision, Recall, accuracy
