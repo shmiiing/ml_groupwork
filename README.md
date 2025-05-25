@@ -1,8 +1,9 @@
 # ml_groupwork
 ddddd
-·feature selection
+## feature selection
   LASSO
   random forest (if applicable)
   catboost
-·model prediciton
+## model prediciton
   linear regression
+  
