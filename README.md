@@ -6,4 +6,4 @@
   random forest (if applicable)
   catboost
 ## model prediciton
-Bayes Optimizaiton, Grid Search
+Bayes Optimizaiton, Grid Search, cross validation
