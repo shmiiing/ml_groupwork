@@ -6,5 +6,4 @@
   random forest (if applicable)
   catboost
 ## model prediciton
-  linear regression
-  
+Bayes Optimizaiton, Grid Search
